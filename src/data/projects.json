@@ -1,0 +1,28 @@
+[
+   
+  {
+    "title": "Curd Application",
+    "imageSrc": "projects/project.png",
+    "description": "For the backend, I utilized Spring Tool Suite (Java) to build robust APIs, integrating an H2 database for seamless data management. On the frontend, I employed React to create an intuitive and responsive user interface.",
+    "skills": ["React", "HTML", "CSS","STS"],
+    "demo": "https://github.com/dv0310/Portal--Frontend",
+    "source": "https://github.com/dv0310/test1/tree/main/portal-backend"
+  },
+  {
+      "title": "Popular Anime",
+      "imageSrc": "projects/project.png",
+      "description": "The site offers a curated collection of popular anime series and movies. Users can easily search and discover detailed information about their favorite shows. Watch trailers directly on the site.",
+      "skills": ["React", "HTML", "CSS","Jikan API"],
+      "demo": "https://66be53614e54892be28ced31--teal-conkies-fcd7f7.netlify.app/",
+      "source": "https://github.com/dv0310/Anime-React"
+    },
+    {
+      "title": "My Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "I have designed and developed my portfolio using React for the frontend, ensuring a dynamic and responsive user experience. The design was meticulously crafted using Figma, allowing for a seamless and visually appealing interface that reflects my skills and projects. The portfolio showcases my work, skills, and experiences, highlighting my expertise in web development and design.",
+      "skills": ["React", "HTML", "CSS","FIGMA"],
+      "demo": "",
+      "source": ""
+    }
+  ]
+  

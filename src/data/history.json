@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Software developer",
+      "organisation": "mindgate solutions",
+      "startDate": "January, 2019",
+      "endDate": "July 2022",
+      "experiences": ["Worked on Banking web pages", "Worked on both frontend and backend"],
+      "imageSrc": "history/mindgate.png"
+    },
+    {
+      "role": "solution architect associate",
+      "organisation": "AWS",
+      "startDate": "issued on March 22, 2024",
+      "endDate": "Expires on March 22, 2027",
+      "experiences": ["Associate certification validates expertise in designing scalable, highly available, and secure solutions on the AWS platform."],
+      "imageSrc": "history/aws.png"
+    }
+  ]
+  
